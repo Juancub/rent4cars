@@ -1,0 +1,165 @@
+.cardVehicle {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    box-shadow: 15px 5px 10px #48529944;
+    border: 0.5px solid #ddd;
+    width: 46%;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.imagenCard {
+    text-align: center;
+}
+
+.infoCard {
+    display: flex;
+    flex-direction: column;
+}
+
+.infoCard span {
+    color: #1DBEB4;
+}
+
+.imagenCard img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px 0 0 10px;
+}
+
+.categoryCard,
+.titleCard,
+.locationCard,
+.descriptionCard {
+    margin: 0.15rem 1.3rem;
+}
+
+.titleCard {
+    padding-left: 0;
+}
+
+.buttonCard {
+    text-align: center;
+    background-color: #1DBEB4;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin: 0.15rem 1.3rem 0.15rem 1.3rem;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+
+.buttonCard button {
+    all: unset;
+}
+
+@media only screen and (min-device-width: 624px) and (max-device-width: 1024px) {
+    .cardVehicle {
+        display: flex;
+        flex-direction: raw;
+        box-shadow: 15px 5px 10px #48529944;
+        border: 0.5px solid #ddd;
+        width: 95%;
+        align-items: center;
+        background-color: white;
+    }
+
+    .imagenCard {
+        text-align: center;
+    }
+
+    .infoCard {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .infoCard span {
+        color: #1DBEB4;
+    }
+
+    .imagenCard img {
+        width: 350px;
+        height: 181px;
+        text-align: center;
+    }
+
+    .titleCard {
+        padding-left: 0;
+    }
+
+    .categoryCard,
+    .titleCard,
+    .locationCard,
+    .descriptionCard {
+        margin: 0.15rem 1.3rem;
+    }
+
+    .buttonCard {
+        text-align: center;
+        background-color: #1DBEB4;
+        border: none;
+        border-radius: 5px;
+        padding: 0.5rem;
+        margin: 0.15rem 1.3rem 1.3rem 1.3rem;
+        color: white;
+        font-weight: bold;
+    }
+
+}
+
+@media only screen and (max-width: 624px) {
+    .cardVehicle {
+        box-shadow: 15px 5px 10px #48529944;
+        border: 0.5px solid #ddd;
+        display: flex;
+        flex-direction: column;
+        width: 95%;
+        background-color: white;
+        border-radius: 0 0 10px 10px;
+    }
+
+    .imagenCard {
+        text-align: center;
+    }
+
+    .infoCard {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .infoCard span {
+        color: #1DBEB4;
+    }
+
+    .imagenCard img {
+        width: 350px;
+        height: 181px;
+        text-align: center;
+    }
+
+    .titleCard {
+        padding-left: 0;
+    }
+
+    .categoryCard,
+    .titleCard,
+    .locationCard,
+    .descriptionCard {
+        margin: 0.15rem 1.3rem;
+    }
+
+    .buttonCard {
+        text-align: center;
+        background-color: #1DBEB4;
+        border: none;
+        border-radius: 5px;
+        padding: 0.5rem;
+        margin: 0.15rem 1.3rem 1.3rem 1.3rem;
+        color: white;
+        font-weight: bold;
+    }
+}

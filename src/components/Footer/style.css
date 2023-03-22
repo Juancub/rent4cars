@@ -1,0 +1,33 @@
+footer {
+    background: #1DBEB4;
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    bottom: 0;
+}
+
+.icon {
+    padding: 0 0.5rem;
+}
+
+
+.dh {
+    color: white;
+    font-weight: bold;
+    margin: 0;
+}
+
+@media (max-width: 624px) {
+
+    footer {
+
+        position: sticky;
+        bottom: 0;
+    }
+
+    .redes {
+        display: none;
+    }
+}

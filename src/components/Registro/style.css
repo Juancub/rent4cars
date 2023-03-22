@@ -1,0 +1,50 @@
+.registro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding-top: 110px;
+}
+.registro h2{
+    color:#1DBEB4
+}
+.registro p{
+    font-size: 12px;
+}
+.form-registro{
+    display: flex;
+    flex-direction: column;
+}
+.form-registro label{
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+}
+.form-registro .doble-campo{
+    display: flex;
+    justify-content: space-between;
+}
+.form-registro label input{
+    border: none;
+    margin-top: 6px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    height: 40px;
+}
+.form-registro .btn-submit{
+    text-align: center;
+    display: flex;
+    background-color: #1DBEB4;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: none;
+    height: 40px;
+    width: 200px;
+    align-self: center;
+    margin-top: 40px;
+    margin-bottom: 12px;
+    font-weight: 700;
+}

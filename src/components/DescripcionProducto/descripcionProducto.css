@@ -1,0 +1,52 @@
+.beneficios {
+    padding: 2em 1em;
+}
+
+.beneficios>h2{
+    color: #383B58;
+}
+
+.linea {
+    background-color: #1DBEB4;
+    border: 1px solid #1DBEB4;
+}
+
+.listaBeneficios {
+    display: grid;
+    grid-template-columns: 22% 22% 22% 22%;
+    align-items: center;
+    justify-content: space-around;
+    
+    margin: 0;
+    padding: 0;
+}
+
+.containerBeneficio {
+    width: 210px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.itemBeneficios {
+    padding: 0.5em 0;
+    list-style: none;
+}
+
+.inconCheck {
+    color: #1DBEB4;
+    padding: 0 0.5em;
+}
+
+@media only screen and (max-width: 860px) {
+
+    .listaBeneficios {
+        display: grid;
+        grid-template-columns: 45% 45%;
+        align-items: center;
+        justify-content: space-around;
+        margin: 0;
+        padding: 0;
+    }
+
+}

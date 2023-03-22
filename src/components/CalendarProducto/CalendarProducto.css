@@ -1,0 +1,102 @@
+.calendarProducto {
+    background-color: #E5E5E5;
+    padding: 1em 1em;
+}
+
+.calendarProducto>h2 {
+    color: #383B58;
+    margin-top: 0;
+}
+
+.react-datepicker {
+    box-shadow: 15px 5px 10px #48529944;
+    height: auto;
+}
+
+.react-datepicker {
+    height: auto;
+}
+
+.sectionReserva {
+    display: grid;
+    grid-template-columns: 63% 35%;
+    align-items: center;
+    justify-content: space-around;
+    justify-items: center;
+}
+
+.reservar {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 15px 5px 10px #48529944;
+}
+
+.reservar>p {
+    padding: 0 1em;
+    margin-bottom: 0;
+    font-weight: bold;
+    color: #383B58;
+}
+
+.botonIniciraReserva {
+    border-radius: 5px;
+    background-color: #1DBEB4;
+    color: white;
+    padding: 0.5em;
+    margin: 1em;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.botonIniciraReserva>button {
+    all: unset;
+    
+    /* background-color: #1DBEB4; */
+    /* color: white; */
+    /* padding: 0.5em;
+    margin: 1em;
+    text-align: center;
+    font-weight: bold; */
+}
+
+@media only screen and (min-device-width: 624px) and (max-device-width: 1024px) {
+
+    .sectionReserva {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        justify-items: center;
+    }
+
+    .reservar {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        background-color: #E5E5E5;
+        box-shadow: none;
+        width: 100%;
+        justify-content: space-around;
+    }
+}
+
+@media only screen and (max-width: 624px) {
+    .sectionReserva {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        justify-items: center;
+    }
+
+    .reservar {
+        display: flex;
+        flex-direction: column;
+        background-color: #E5E5E5;
+        box-shadow: none;
+        width: 100%;
+        justify-content: space-around;
+    }
+}

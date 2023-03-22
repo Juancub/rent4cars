@@ -1,0 +1,137 @@
+.tituloCrear {
+    color: #383B58;
+    margin: 1em;
+}
+
+.formCrearVehiculo {
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedorProducto>label {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em 1em;
+}
+
+h4 {
+    color: #383B58;
+    margin: 1em;
+}
+
+.contenedorProducto>label>input,.contenedorProducto>label>select {
+    padding: 0.5em;
+    margin: 0.3em;
+}
+
+.contenedorCaracteristicas {
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedorCaracteristicas>label {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em 1em;
+}
+
+.contenedorCaracteristicas>label>input {
+    padding: 0.5em;
+    margin: 0.3em;
+}
+
+.crearAire>label>input[type=checkbox] {
+    transform: scale(1.5);
+    margin: 0 1em;
+}
+
+.crearAire {
+    display: inline-block;
+    padding: 0.5em 1em;
+}
+
+.crearCajaMecanica{
+    display: inline-block;
+    padding: 0.5em 1em;
+}
+
+.crearCajaAutomatica{
+    display: inline-block;
+    padding: 0.5em 1em;
+}
+
+.contenedorPoliticas {
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedorPoliticas>label {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em 1em;
+}
+
+.contenedorPoliticas>label>textarea {
+    padding: 0.5em;
+    margin: 0.3em;
+    overflow: hidden;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }
+
+.botonCrearVehiculo {
+    margin: 1em 0;
+    text-align: center;
+    background-color: #1DBEB4;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem;
+    color: white;
+    font-weight: bold;
+    width: 85%;
+    padding: 1em;
+    font-size: 1em;
+    align-self: center;
+    text-decoration: none;
+    width: 30%;
+}
+
+.botonCrearVehiculo>button {
+    all: unset;
+}
+
+.agregarImagen {
+    width: fit-content;
+    background-color: #1DBEB4;
+    border: none;
+    font-size: 1.5em;
+    color: white;
+    font-weight: bold;
+}
+
+@media only screen 
+    and (min-device-width: 624px) 
+    and (max-device-width: 1024px) {
+
+        .contenedorProducto {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+
+        .contenedorCaracteristicas {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+
+        .contenedorPoliticas {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+
+    }

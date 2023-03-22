@@ -1,0 +1,55 @@
+.horarioReserva {
+display: flex;
+flex-direction: column;
+}
+
+.horarioReserva>h3 {
+    color: #383B58;
+}
+
+.formHorario {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    background-color: white;
+    box-shadow: 15px 5px 10px #48529944;
+    border-radius: 5px;
+}
+
+.selectHorario {
+
+    background-color: white;
+    padding: 0.5em;
+    border-radius: 5px;
+    border: 0;
+    font-size: 1em;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    color: #7F7F7F;
+    margin: 0.5em 0;
+}
+
+.optionDefault {
+    color: #7F7F7F;
+}
+
+.formHora {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1em;
+}
+
+.formHora>label {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.9em;
+    padding: 0.5em 0;
+}
+
+@media only screen and (max-width: 624px) {
+
+    .formHora {
+        display: flex;
+        flex-direction: column;
+    }
+
+}

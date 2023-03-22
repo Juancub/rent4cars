@@ -1,0 +1,23 @@
+.calendarioReserva {
+    display: flex;
+    flex-direction: column;
+}
+
+.calendarioReserva>div {
+    align-self: center;
+}
+
+.calendarioReserva>h3 {
+    color: #383B58;
+}
+
+@media only screen and (min-device-width: 624px) and (max-device-width: 1024px) {
+    .calendarioReserva {
+        display: block;
+        width: 100%;
+    }
+    
+    .calendarioReserva>div {
+        text-align: center;
+    }    
+}

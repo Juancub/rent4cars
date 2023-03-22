@@ -1,0 +1,207 @@
+[
+    {
+        "id": "001",
+        "urls":
+            [
+                {
+                    "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-1.jpg",
+                    "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-1.jpg"
+                },
+                {
+                    "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-2.jpg",
+                    "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-2.jpg"
+                },
+                {
+                    "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-3.jpg",
+                    "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-3.jpg"
+                }
+            ]
+    },
+    {
+        "id": "002",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-1.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-1.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-1.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-1.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "004",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-1.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-1.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "005",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-1.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-1.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "006",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-1.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-1.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "007",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-1.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-1.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "008",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-1.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-1.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "009",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-1.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-1.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "010",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-1.jpg.webp",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-1.jpg.webp"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-2.jgp.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-2.jgp.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "011",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-1.jpg.webp",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-1.jpg.webp"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "012",
+        "urls": [
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-1.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-1.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-2.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-2.jpg"
+            },
+            {
+                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-3.jpg",
+                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-3.jpg"
+            }
+        ]
+    }
+]

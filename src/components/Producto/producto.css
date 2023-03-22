@@ -1,0 +1,8 @@
+.productoVehiculo {
+    display: flex;
+    flex-direction: column;
+}
+
+.productoVehiculoDiv {
+    padding-top: 110px;
+}

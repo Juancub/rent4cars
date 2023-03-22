@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: rgba(196, 196, 196, 0.1);
+}
+
+#root{
+  height: 100vh;
+  /* display: grid;
+  grid-template-rows: 100px 1fr 80px; */
+}
+

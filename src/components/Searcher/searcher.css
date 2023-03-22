@@ -1,0 +1,141 @@
+    
+    .buscadorAutos {
+        background: #545776;
+        padding: 1rem 1rem;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    
+    .titleSearch {
+        width: 90%;
+        color: white;
+    }
+
+    .formulario {
+        display: flex;
+        flex-direction: row;
+        width: 90%;
+    }
+
+    .selectCity{
+        width: 100%;
+        border-radius: 5px;
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        padding: 0.5rem;
+        margin-right: 1rem;
+        color: #7F7F7F;
+        background-color: white;
+    }
+
+    select::-ms-expand {
+        display: none;
+    }
+
+    .react-datepicker__input-container input {
+        width: 96%;
+        padding: 0.5rem;
+        border-radius: 5px;
+    }
+
+    .react-datepicker__close-icon {
+        display:none !important;
+    }
+
+    /* .react-datepicker-wrapper input{
+        
+    } */
+
+    .react-datepicker__day--keyboard-selected { 
+        background-color: #1DBEB4;
+    }
+    .react-datepicker__day--in-range{
+        background-color: #1DBEB4;
+    }
+
+    .react-datepicker__day--keyboard-selected {
+        background-color: #1DBEB4;
+    }
+
+    .react-datepicker__day--selecting-range-start{
+        background-color: #1DBEB4;
+    }
+
+    .botonForm {
+        text-align: center;
+        background-color: #1DBEB4;
+        border: none;
+        border-radius: 5px;
+        padding: 0.5rem;
+        color: white;
+        font-weight: bold;
+        width: 60%;
+        margin-left: 1.7rem;
+    }
+
+    @media only screen and (max-width: 624px) {
+
+        .buscadorAutos {
+            background: #545776;
+            padding: 1rem 1rem;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .titleSearch {
+            color: white;
+        }
+
+        .formulario {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .selectCity{
+            width: 100%;
+            border-radius: 5px;
+            appearance: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            padding: 0.5rem;
+            margin-bottom: 0.3rem;
+        }
+
+        .react-datepicker__input-container input {
+            width: 96%;
+            padding: 0.5rem;
+            border-radius: 5px;
+        }
+        
+        .react-datepicker__day--keyboard-selected { 
+            background-color: #1DBEB4;
+        }
+        .react-datepicker__day--in-range{
+            background-color: #1DBEB4;
+        }
+    
+        .react-datepicker__day--keyboard-selected {
+            background-color: #1DBEB4;
+        }
+    
+        .react-datepicker__day--selecting-range-start{
+            background-color: #1DBEB4;
+        }
+
+        .botonForm {
+            text-align: center;
+            background-color: #1DBEB4;
+            border: none;
+            border-radius: 5px;
+            padding: 0.5rem;
+            color: white;
+            font-weight: bold;
+            margin-top: 0.3rem;
+            width: 100%;
+            margin-left: 0;
+        }
+
+    }

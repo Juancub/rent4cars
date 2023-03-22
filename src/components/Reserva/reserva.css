@@ -1,0 +1,25 @@
+.templateReservaDiv {
+    padding-top: 110px;
+}
+
+.templateReserva {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 2em;
+}
+
+@media only screen and (max-width: 624px) {
+    .templateReserva {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (min-device-width: 624px) and (max-device-width: 1024px) {
+
+    .templateReserva {
+        display: flex;
+        flex-direction: column;
+    }
+    
+}

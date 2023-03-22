@@ -1,0 +1,45 @@
+.caracteristicas {
+    padding: 1em 1em;
+}
+
+.caracteristicas>h2 {
+    color: #383B58;
+}
+
+.iconosCaracteristicas {
+    display: grid;
+    grid-template-columns: 22% 22% 22% 22%;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+}
+
+.iconosCaracteristicas>div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1em;
+}
+
+.iconosCaracteristicas>div>img {
+    width: 24px;
+    margin: 0.5em;
+}
+
+.iconosCaracteristicas>div>p {
+    margin: 0;
+}
+
+@media only screen and (max-width: 860px) {
+
+    .iconosCaracteristicas {
+        display: grid;
+        grid-template-columns: 45% 45%;
+        align-items: center;
+        justify-content: space-around;
+        margin: 0;
+        padding: 0;
+    }
+
+}

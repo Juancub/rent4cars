@@ -1,0 +1,98 @@
+[
+    {
+        "id": "001",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-1.jpg",
+        "category": "Compacto",
+        "title": "VOLKSWAGEN GOL",
+        "location": "Bogotá",
+        "description": "La mejor opción para moverte en la ciudad"
+    },
+    {
+        "id": "002",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-1.jpg",
+        "category": "Compacto",
+        "title": "FORD KA",
+        "location": "Cartagena",
+        "description": "La mejor opción para moverte en la ciudad"
+    },
+    {
+        "id": "003",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-1.jpg",
+        "category": "Compacto",
+        "title": "CHEVROLET ONIX",
+        "location": "Buenos Aires",
+        "description": "La mejor opción para moverte en la ciudad"
+    },
+    {
+        "id": "004",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-1.jpg",
+        "category": "Sedán",
+        "title": "FORD FIESTA",
+        "location": "Bogotá",
+        "description": "Mayor confort para tus paseos en familia"
+    },
+    {
+        "id": "005",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-1.jpg",
+        "category": "Sedán",
+        "title": "CHEVROLET PRISMA",
+        "location": "Cartagena",
+        "description": "Mayor confort para tus paseos en familia"
+    },
+    {
+        "id": "006",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-1.jpg",
+        "category": "Sedán",
+        "title": "VOLKSWAGEN VIRTUS",
+        "location": "Buenos Aires",
+        "description": "Mayor confort para tus paseos en familia"
+    },
+    {
+        "id": "007",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-1.jpg",
+        "category": "SUV",
+        "title": "VOLKSWAGEN TCROSS",
+        "location": "Bogotá",
+        "description": "Mucho espacio para que lleves todo lo que necesites"
+    },
+    {
+        "id": "008",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-1.jpg",
+        "category": "SUV",
+        "title": "CHEVROLET TRACKER",
+        "location": "Cartagena",
+        "description": "Mucho espacio para que lleves todo lo que necesites"
+    },
+    {
+        "id": "009",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-1.jpg",
+        "category": "SUV",
+        "title": "FORD ECOSPORT",
+        "location": "Buenos Aires",
+        "description": "Mucho espacio para que lleves todo lo que necesites"
+    },
+    {
+        "id": "010",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-1.jpg.webp",
+        "category": "Camioneta 4x4",
+        "title": "VOLKSWAGEN AMAROK",
+        "location": "Bogotá",
+        "description": "Ideal para los que prefieren paseos extremos"
+    },
+    {
+        "id": "011",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-1.jpg.webp",
+        "category": "Camioneta 4x4",
+        "title": "CHEVROLET S10",
+        "location": "Cartagena",
+        "description": "Ideal para los que prefieren paseos extremos"
+    },
+    {
+        "id": "012",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-1.jpg",
+        "category": "Camioneta 4x4",
+        "title": "FORD RANGER",
+        "location": "Buenos Aires",
+        "description": "Ideal para los que prefieren paseos extremos"
+    }
+]

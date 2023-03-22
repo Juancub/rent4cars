@@ -1,0 +1,18 @@
+.navUbicacion {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1em 0 1em 1em;
+    background-color: #E5E5E5;
+}
+
+.navText>p {
+    margin: 0 1em;
+    color: #383B58;
+}
+
+.iconLocation {
+    display: flex;
+    font-size: 2em;
+    color: #545776;
+}

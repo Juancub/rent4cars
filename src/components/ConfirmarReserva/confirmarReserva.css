@@ -1,0 +1,52 @@
+.checkDatos {
+    display: flex;
+    flex-direction: column;
+}
+
+.checkDatos>h3 {
+    color: #383B58;
+}
+
+.verificaDatos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1em;
+    background-color: white;
+    padding: 1em;
+    box-shadow: 15px 5px 10px #48529944;
+    border-radius: 5px;
+}
+
+.verificaDatos>label {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em 0;
+}
+
+.verificaDatos>label>input {
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border: 0;
+    background-color: #DFE4EA;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 624px) {
+    
+    .verificaDatos {
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        padding: 1em;
+        box-shadow: 15px 5px 10px #48529944;
+        border-radius: 5px;
+    }
+
+    .verificaDatos>label>input {
+        padding: 0.5em;
+        border: 0;
+        background-color: #DFE4EA;
+        border-radius: 5px;
+    }
+
+}

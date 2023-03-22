@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "categoria":"Sedán",
+        "foto":"https://static.rentcars.com/imagens/carros/chevrolet-cruze-2022.png",
+        "altText":"Foto de auto sedán",
+        "cantidad":11500
+    },{
+        "id":2,
+        "categoria":"Compacto",
+        "foto":"https://static.rentcars.com/imagens/carros/volkswagen_up-2020-2021.png",
+        "altText":"Foto de auto compacto",
+        "cantidad":41300
+    },{
+        "id":3,
+        "categoria":"SUV",
+        "foto":"https://static.rentcars.com/imagens/carros/duster_suv.png",
+        "altText":"Foto de auto SUV",
+        "cantidad":26700
+    },{
+        "id":4,
+        "categoria":"Camioneta 4x4",
+        "foto":"https://static.rentcars.com/imagens/carros/volkswagen-atlas.png",
+        "altText":"Foto de camioneta 4x4",
+        "cantidad":9200
+    }
+]

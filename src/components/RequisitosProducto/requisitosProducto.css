@@ -1,0 +1,39 @@
+.politicas {
+    padding: 1em 1em;
+}
+
+.politicas>h2 {
+    color: #383B58;
+}
+
+.politicas>section>div>h3 {
+    color: #383B58;
+}
+
+.politicas>section {
+    display: grid;
+    grid-template-columns: 22% 22% 22% 22%;
+    justify-content: space-around;
+    padding: 0;
+    grid-gap: 20px 0;
+}
+
+@media only screen 
+and (min-device-width: 624px) 
+and (max-device-width: 1024px) {
+
+    .politicas>section {
+        display: grid;
+        grid-template-columns: 45% 45%;
+        justify-content: space-around;
+    }
+
+}
+
+@media only screen and (max-width: 624px) {
+
+    .politicas>section {
+        display: block;
+    }
+
+}

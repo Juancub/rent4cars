@@ -1,0 +1,79 @@
+.templateLista {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E5E5;
+}
+
+.textRecomienda {
+    color: #383B58;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+}
+
+.listaVehiculos{
+    display: flex;
+    gap: 20px 3px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+    
+
+    @media only screen 
+    and (min-device-width: 624px) 
+    and (max-device-width: 1024px) {
+
+        .textRecomienda {
+            color: #383B58;
+            font-size: 24px;
+            font-weight: bold;
+            padding-left: 2rem;
+            padding-bottom: 0;
+        }
+
+        .templateLista {
+            display: flex;
+            flex-direction: column;
+            background-color: #E5E5E5;
+        }
+        
+
+        .listaVehiculos{
+            margin-top: 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+            width: 100%;
+        }
+
+    }
+
+    @media only screen and (max-width: 624px) {
+
+        .textRecomienda {
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            padding-left: 2rem;
+            padding-bottom: 0;
+        }
+        
+        .templateLista {
+            display: flex;
+            flex-direction: column;
+            background-color: #545776;
+        }
+
+        .listaVehiculos{
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+        background-color: #545776;
+        width: 100%;
+        }
+    }

@@ -1,0 +1,48 @@
+.cardReserva {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardReserva>div{
+    padding: 2em;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 15px 5px 10px #48529944;
+}
+
+.cardReserva>div>h3{
+    color: #1DBEB4;
+}
+
+.cardReserva>div>h4{
+    color: #383B58;
+}
+
+.cardReserva>div>div{
+    background-color: #1DBEB4;
+    border-radius: 5px;
+    padding: 0.5rem;
+    width: 50%;
+    text-align: center;
+}
+
+.botonHome{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.iconoCalendar{
+    color: #1DBEB4;
+    font-size: 3em;
+}
+.container-reserva-ok{
+    height: 82vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 110px;
+}

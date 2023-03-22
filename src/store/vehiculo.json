@@ -1,0 +1,590 @@
+[
+    {
+        "id": "001",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-1.jpg",
+        "category": "Compacto",
+        "title": "VOLKSWAGEN GOL",
+        "location": [
+            {
+                "city": "Bogotá",
+                "country": "Colombia",
+                "adress": "Aeropuerto El Dorado, Av. El Dorado #103-9"
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 5,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": true,
+                "cajaAutomatica": false,
+                "cilindraje": 1598
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-1.jpg",
+        "category": "Compacto",
+        "title": "FORD KA",
+        "location": [
+            {
+                "city": "Cartagena",
+                "country": "Colombia",
+                "adress": "Aeropuerto Internacional Rafael Núñez. Crespo Calle 70, Provincia de Cartagena"
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 5,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": true,
+                "cajaAutomatica": false,
+                "cilindraje": 1499
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-1.jpg",
+        "category": "Compacto",
+        "title": "CHEVROLET ONIX",
+        "location": [
+            {
+                "city": "Buenos Aires",
+                "country": "Argentina",
+                "adress": "Aeropuerto Internacional Ezeiza. AU Tte. Gral. Pablo Riccheri Km 33,5, B1802 Ezeiza, Provincia de Buenos Aires."
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 5,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": true,
+                "cajaAutomatica": false,
+                "cilindraje": 1389
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "004",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-1.jpg",
+        "category": "Sedán",
+        "title": "FORD FIESTA",
+        "location": [
+            {
+                "city": "Bogotá",
+                "country": "Colombia",
+                "adress": "Aeropuerto El Dorado, Av. El Dorado #103-9"
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 4,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": true,
+                "cajaAutomatica": false,
+                "cilindraje": 1598
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "005",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-1.jpg",
+        "category": "Sedán",
+        "title": "CHEVROLET PRISMA",
+        "location": [
+            {
+                "city": "Cartagena",
+                "country": "Colombia",
+                "adress": "Aeropuerto Internacional Rafael Núñez. Crespo Calle 70, Provincia de Cartagena"
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 4,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": true,
+                "cajaAutomatica": false,
+                "cilindraje": 1389
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "006",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-1.jpg",
+        "category": "Sedán",
+        "title": "VOLKSWAGEN VIRTUS",
+        "location": [
+            {
+                "city": "Buenos Aires",
+                "country": "Argentina",
+                "adress": "Aeropuerto Internacional Ezeiza. AU Tte. Gral. Pablo Riccheri Km 33,5, B1802 Ezeiza, Provincia de Buenos Aires."
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 4,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": true,
+                "cajaAutomatica": false,
+                "cilindraje": 1598
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "007",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-1.jpg",
+        "category": "SUV",
+        "title": "VOLKSWAGEN TCROSS",
+        "location": [
+            {
+                "city": "Bogotá",
+                "country": "Colombia",
+                "adress": "Aeropuerto El Dorado, Av. El Dorado #103-9"
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 5,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": false,
+                "cajaAutomatica": true,
+                "cilindraje": 1598
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "008",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-1.jpg",
+        "category": "SUV",
+        "title": "CHEVROLET TRACKER",
+        "location": [
+            {
+                "city": "Cartagena",
+                "country": "Colombia",
+                "adress": "Aeropuerto Internacional Rafael Núñez. Crespo Calle 70, Provincia de Cartagena"
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 5,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": false,
+                "cajaAutomatica": true,
+                "cilindraje": 3239
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "009",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-1.jpg",
+        "category": "SUV",
+        "title": "FORD ECOSPORT",
+        "location": [
+            {
+                "city": "Buenos Aires",
+                "country": "Argentina",
+                "adress": "Aeropuerto Internacional Ezeiza. AU Tte. Gral. Pablo Riccheri Km 33,5, B1802 Ezeiza, Provincia de Buenos Aires."
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 5,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": true,
+                "cajaAutomatica": false,
+                "cilindraje": 2490
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "010",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-1.jpg.webp",
+        "category": "4x4",
+        "title": "VOLKSWAGEN AMAROK",
+        "location": [
+            {
+                "city": "Bogotá",
+                "country": "Colombia",
+                "adress": "Aeropuerto El Dorado, Av. El Dorado #103-9"
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 4,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": false,
+                "cajaAutomatica": true,
+                "cilindraje": 2967
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "011",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-1.jpg.webp",
+        "category": "4x4",
+        "title": "CHEVROLET S10",
+        "location": [
+            {
+                "city": "Cartagena",
+                "country": "Colombia",
+                "adress": "Aeropuerto Internacional Rafael Núñez. Crespo Calle 70, Provincia de Cartagena"
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 4,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": false,
+                "cajaAutomatica": true,
+                "cilindraje": 2776
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    },
+    {
+        "id": "012",
+        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-1.jpg",
+        "category": "4x4",
+        "title": "FORD RANGER",
+        "location": [
+            {
+                "city": "Buenos Aires",
+                "country": "Argentina",
+                "adress": "Aeropuerto Internacional Ezeiza. AU Tte. Gral. Pablo Riccheri Km 33,5, B1802 Ezeiza, Provincia de Buenos Aires."
+            }
+        ],
+        "description": [
+            {
+                "title": "Incluye todos los beneficios y el respaldo de Digital Booking",
+                "benefit": [
+                    "SOAT",
+                    "Mantenimientos preventivo y correctivo",
+                    "Impuestos de rodamiento",
+                    "Impuestos de semaforización",
+                    "Seguro todo riesgo",
+                    "Matricula inicial",
+                    "Llantas",
+                    "Protección total",
+                    "Lavadas sencillas"
+                ]
+            }
+        ],
+        "features": [
+            {
+                "puertas": 4,
+                "puestos": 5,
+                "aireAcondicionado": true,
+                "cajaMecanica": false,
+                "cajaAutomatica": true,
+                "cilindraje": 3198
+            }
+        ],
+        "requisites": [
+            {
+                "edad": "La edad mínima para poder contratar el servicio es de 21 años cumplidos.",
+                "licencia": "El titular del contrato, así como cada persona que tenga intención de conducir el behículo deberá presentar licencia de conducir vigente con antiguedad no menor a 2 años. Si su Licencia no es nacional, recuerde que ésta deberá estar vigente y que sólo es posible ser utilizada para circular durante los primeros 3 meses de su estadía en el país.",
+                "identificacion": "Cada conductor deberá presentar un documento de identidad original con fotografía, en caso de ser extranjero, el pasaporte debe encontrarse vigente.",
+                "voucher": "Usted debe presentar el voucher de confirmación de reserva impreso en la oficina de alquiler. Éste documento confirma oficialmente todos los servicios acordados, condiciones de pago, tarifas, descuentos, así como la disponibilidad de vehículos dentro del grupo seleccionado.",
+                "garantia": "Se deberá abonar en concepto de garantía un monto equivalente a la franquicia del seguro del vehículo, la cuál será devuelta al momento del retorno del mismo una vez constatada la entrega en las mismas condiciones en que fue recibido por el cliente.",
+                "info": "Las empresas de alquiler de carros se reservan el derecho a negar el servicio a conductores menores de edad o que no cuenten con licencia, a aquellos que tengan un mal historial crediticio, o a personas consideradas como un riesgos por la empresa de alquiler."
+            }
+        ]
+    }
+]
