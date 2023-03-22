@@ -48,8 +48,13 @@ const Header = () => {
         </div>
       </div>:
       <div>
-        <div className='barra'><Navbar/></div>
         
+        {/*este funcionaba -> <div className='barra'><Navbar/></div> */}
+
+        {/* esto es nuevo */}
+        <div><Navbar open={open} handleClick={handleClick}/></div>
+        {/* hasta aca */}
+
         <MenuButton className="menuButton" open={open} handleClick={handleClick}/>
       </div>}
 
