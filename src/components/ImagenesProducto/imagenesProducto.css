@@ -46,11 +46,14 @@
     color: white;
     cursor: pointer;
     text-decoration: underline;
+    background-color: #383B58;
+    padding: 0.4em;
+    border-radius: 5px;
 }
 
 .openModal {
     position: fixed;
-    z-index: 3;
+    z-index: 999;
     top: 0;
     left: 0;
     width: 100%;
@@ -77,7 +80,7 @@
 
 .close {
     position: absolute;
-    z-index: 6;
+    z-index: 999;
     right: 0.5em;
     top: 0.5em;
     color: white;

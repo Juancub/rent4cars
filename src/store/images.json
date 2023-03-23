@@ -4,17 +4,26 @@
         "urls":
             [
                 {
-                    "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-1.jpg",
-                    "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-1.jpg"
+                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-comfortline-mt-798x466.jpg.webp",
+                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-comfortline-mt-798x466.jpg.webp"
                 },
                 {
-                    "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-2.jpg",
-                    "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-2.jpg"
+                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-2020-modelos-lateral-gris-colombia-798x466.png.webp",
+                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-2020-modelos-lateral-gris-colombia-798x466.png.webp"
                 },
                 {
-                    "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-3.jpg",
-                    "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-gol-3.jpg"
+                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-asientos-volkswagen-colombia-798x466.jpg",
+                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-asientos-volkswagen-colombia-798x466.jpg"
+                },
+                {
+                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-highline-baul-798x466.jpg",
+                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-highline-baul-798x466.jpg"
+                },
+                {
+                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-interior-panel-frontal-volkswagen-colombia-asientos-798x466.jpg",
+                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-interior-panel-frontal-volkswagen-colombia-asientos-798x466.jpg"
                 }
+
             ]
     },
     {
