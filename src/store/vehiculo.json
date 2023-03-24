@@ -50,7 +50,7 @@
     },
     {
         "id": "002",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-1.jpg",
+        "img": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C01.jpg",
         "category": "Compacto",
         "title": "FORD KA",
         "location": [
@@ -99,7 +99,7 @@
     },
     {
         "id": "003",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-1.jpg",
+        "img": "https://www.chevrolet.com.co/bypass/gmccontenthub/chevrolet/gm-co/colorizer_onix_hb/images/colorizer/2022-colorizer-onix-turbo-hb-blanco-1.png",
         "category": "Compacto",
         "title": "CHEVROLET ONIX",
         "location": [
@@ -148,7 +148,7 @@
     },
     {
         "id": "004",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-1.jpg",
+        "img": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121617_4.jpg",
         "category": "Sedán",
         "title": "FORD FIESTA",
         "location": [
@@ -197,7 +197,7 @@
     },
     {
         "id": "005",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-1.jpg",
+        "img": "https://www.opencars.com.ar/wp-content/uploads/2023/02/f-9.jpg",
         "category": "Sedán",
         "title": "CHEVROLET PRISMA",
         "location": [
@@ -246,7 +246,7 @@
     },
     {
         "id": "006",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-1.jpg",
+        "img": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-1160708-838136-1160709-child-b960/dh-781-c2426a/ee2d0a51/1674461747/virtus-volkswagen-colombia.jpg",
         "category": "Sedán",
         "title": "VOLKSWAGEN VIRTUS",
         "location": [
@@ -295,7 +295,7 @@
     },
     {
         "id": "007",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-1.jpg",
+        "img": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_13c8d090a89d47aa96425c3dd4d7a8c8.jpg",
         "category": "SUV",
         "title": "VOLKSWAGEN TCROSS",
         "location": [
@@ -344,7 +344,7 @@
     },
     {
         "id": "008",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-1.jpg",
+        "img": "https://www.chevrolet.com.co/bypass/gmccontenthub/chevrolet/gm-co/colorizer_tracker/images/colorizer/2022-colorchip-tracker-turbo-plata-1.png",
         "category": "SUV",
         "title": "CHEVROLET TRACKER",
         "location": [
@@ -393,7 +393,7 @@
     },
     {
         "id": "009",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-1.jpg",
+        "img": "https://imgd.aeplcdn.com/1056x594/cw/ec/40369/Ford-EcoSport-Right-Front-Three-Quarter-159249.jpg?wm=1&q=75",
         "category": "SUV",
         "title": "FORD ECOSPORT",
         "location": [
@@ -442,7 +442,7 @@
     },
     {
         "id": "010",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-1.jpg.webp",
+        "img": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/m/RT_V_7813d5c0b0c346b998280771f4ca2411.jpg",
         "category": "4x4",
         "title": "VOLKSWAGEN AMAROK",
         "location": [
@@ -491,7 +491,7 @@
     },
     {
         "id": "011",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-1.jpg.webp",
+        "img": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/colorizer/01-images/blanco.jpg?imwidth=1200",
         "category": "4x4",
         "title": "CHEVROLET S10",
         "location": [
@@ -540,7 +540,7 @@
     },
     {
         "id": "012",
-        "img": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-1.jpg",
+        "img": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/colorizer/v3/colorizer/Blanco%20%C3%81rtico/fco-ranger-colorizer-blanco.jpg.dam.full.high.jpg/1678470382133.jpg",
         "category": "4x4",
         "title": "FORD RANGER",
         "location": [

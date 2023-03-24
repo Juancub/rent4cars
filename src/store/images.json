@@ -30,16 +30,24 @@
         "id": "002",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-1.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-1.jpg"
+                "original": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C01.jpg",
+                "thumbnail": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C01.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-2.jpg"
+                "original": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C03.jpg",
+                "thumbnail": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C03.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-ka-3.jpg"
+                "original": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C04.jpg",
+                "thumbnail": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C04.jpg"
+            },
+            {
+                "original": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C05.jpg",
+                "thumbnail": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C05.jpg"
+            },
+            {
+                "original": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C08.jpg",
+                "thumbnail": "https://www.autobild.es/sites/autobild.es/public/styles/855/public/dc/fotos/Ford-Ka_plus-2017-C08.jpg"
             }
         ]
     },
@@ -47,16 +55,24 @@
         "id": "003",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-1.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-1.jpg"
+                "original": "https://www.chevrolet.com.co/bypass/gmccontenthub/chevrolet/gm-co/colorizer_onix_hb/images/colorizer/2022-colorizer-onix-turbo-hb-blanco-1.png",
+                "thumbnail": "https://www.chevrolet.com.co/bypass/gmccontenthub/chevrolet/gm-co/colorizer_onix_hb/images/colorizer/2022-colorizer-onix-turbo-hb-blanco-1.png"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-2.jpg"
+                "original": "https://www.chevrolet.com.co/bypass/gmccontenthub/chevrolet/gm-co/colorizer_onix_hb/images/colorizer/2022-colorizer-onix-turbo-hb-blanco-3.png",
+                "thumbnail": "https://www.chevrolet.com.co/bypass/gmccontenthub/chevrolet/gm-co/colorizer_onix_hb/images/colorizer/2022-colorizer-onix-turbo-hb-blanco-3.png"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/compacto-onix-3.jpg"
+                "original": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/cars/2020-onix-turbo-hb/08-images/onix-hb-nuevo-mh/octubre-2022/gallery/interior-2/2022-galeria-onix-turbo-hb-interior-05.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/cars/2020-onix-turbo-hb/08-images/onix-hb-nuevo-mh/octubre-2022/gallery/interior-2/2022-galeria-onix-turbo-hb-interior-05.jpg?imwidth=1200"
+            },
+            {
+                "original": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/cars/2020-onix-turbo-hb/08-images/onix-hb-nuevo-mh/octubre-2022/gallery/interior-2/2022-galeria-onix-turbo-hb-interior-03.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/cars/2020-onix-turbo-hb/08-images/onix-hb-nuevo-mh/octubre-2022/gallery/interior-2/2022-galeria-onix-turbo-hb-interior-03.jpg?imwidth=1200"
+            },
+            {
+                "original": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/cars/2020-onix-turbo-hb/08-images/onix-hb-nuevo-mh/octubre-2022/gallery/exterior-2/2022-galeria-onix-turbo-hb-exterior-8.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/cars/2020-onix-turbo-hb/08-images/onix-hb-nuevo-mh/octubre-2022/gallery/exterior-2/2022-galeria-onix-turbo-hb-exterior-8.jpg?imwidth=1200"
             }
         ]
     },
@@ -64,16 +80,24 @@
         "id": "004",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-1.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-1.jpg"
+                "original": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121617_4.jpg",
+                "thumbnail": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121617_4.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-2.jpg"
+                "original": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121615_0.jpg",
+                "thumbnail": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121615_0.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-fiesta-3.jpg"
+                "original": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121617_4.jpg",
+                "thumbnail": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121617_4.jpg"
+            },
+            {
+                "original": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121616_2.jpg",
+                "thumbnail": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121616_2.jpg"
+            },
+            {
+                "original": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121616_3.jpg",
+                "thumbnail": "https://img.autoabc.lv/ford-fiesta/ford-fiesta_2012_Sedans_15113121616_3.jpg"
             }
         ]
     },
@@ -81,16 +105,24 @@
         "id": "005",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-1.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-1.jpg"
+                "original": "https://www.opencars.com.ar/wp-content/uploads/2023/02/f-9.jpg",
+                "thumbnail": "https://www.opencars.com.ar/wp-content/uploads/2023/02/f-9.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-2.jpg"
+                "original": "https://www.opencars.com.ar/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-02-at-17.04.33-1.jpeg",
+                "thumbnail": "https://www.opencars.com.ar/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-02-at-17.04.33-1.jpeg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-prisma-3.jpg"
+                "original": "https://www.opencars.com.ar/wp-content/uploads/2023/02/b-10.jpg",
+                "thumbnail": "https://www.opencars.com.ar/wp-content/uploads/2023/02/b-10.jpg"
+            },
+            {
+                "original": "https://www.opencars.com.ar/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-02-at-17.04.31-1.jpeg",
+                "thumbnail": "https://www.opencars.com.ar/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-02-at-17.04.31-1.jpeg"
+            },
+            {
+                "original": "https://www.opencars.com.ar/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-02-at-17.04.30.jpeg",
+                "thumbnail": "https://www.opencars.com.ar/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-02-at-17.04.30.jpeg"
             }
         ]
     },
@@ -98,16 +130,24 @@
         "id": "006",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-1.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-1.jpg"
+                "original": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-1160708-838136-1160709-child-b960/dh-781-c2426a/ee2d0a51/1674461747/virtus-volkswagen-colombia.jpg",
+                "thumbnail": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-1160708-838136-1160709-child-b960/dh-781-c2426a/ee2d0a51/1674461747/virtus-volkswagen-colombia.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-2.jpg"
+                "original": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-630786-426946-630789-child-b960/dh-619-c2426a/c94ad68b/1674115739/virtus-vista-trasera-volkswagen-colombia.jpg",
+                "thumbnail": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-630786-426946-630789-child-b960/dh-619-c2426a/c94ad68b/1674115739/virtus-vista-trasera-volkswagen-colombia.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/sedan-virtus-3.jpg"
+                "original": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-1160718-838139-1160722-child-b960/dh-635-c2426a/321f56c3/1674461747/virtus-volkswagen-colombia-vista-interior-baul.jpg",
+                "thumbnail": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-1160718-838139-1160722-child-b960/dh-635-c2426a/321f56c3/1674461747/virtus-volkswagen-colombia-vista-interior-baul.jpg"
+            },
+            {
+                "original": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-1160726-838141-1160727-child-b960/dh-635-c2426a/dbd6eb94/1674461747/volkswagen-polo-colombia-galeria-vista-asientos.jpg",
+                "thumbnail": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-1160726-838141-1160727-child-b960/dh-635-c2426a/dbd6eb94/1674461747/volkswagen-polo-colombia-galeria-vista-asientos.jpg"
+            },
+            {
+                "original": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-1160726-838142-1160730-child-b960/dh-671-c2426a/a895c877/1674461748/b572cf02-239e-4741-b4ac-4ed5dfb94eb2.jpeg",
+                "thumbnail": "https://cf-cdn-v6.volkswagen.at/media/Abstract_Image_B960_Component.Content_SimpleMedia_Image_Component/51579-1160726-838142-1160730-child-b960/dh-671-c2426a/a895c877/1674461748/b572cf02-239e-4741-b4ac-4ed5dfb94eb2.jpeg"
             }
         ]
     },
@@ -115,16 +155,24 @@
         "id": "007",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-1.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-1.jpg"
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_13c8d090a89d47aa96425c3dd4d7a8c8.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_13c8d090a89d47aa96425c3dd4d7a8c8.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-2.jpg"
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_7714c59b736d404ba5ca2e7a0d1a35f6.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_7714c59b736d404ba5ca2e7a0d1a35f6.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tcross-3.jpg"
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_06996791bb4c4330bc1965a883b899a2.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_06996791bb4c4330bc1965a883b899a2.jpg"
+            },
+            {
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_1d85de0875df4fc49c23b933f77566b2.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_1d85de0875df4fc49c23b933f77566b2.jpg"
+            },
+            {
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_3cd82ad8bdb644d08b2618ff15256aed.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_3cd82ad8bdb644d08b2618ff15256aed.jpg"
             }
         ]
     },
@@ -132,16 +180,24 @@
         "id": "008",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-1.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-1.jpg"
+                "original": "https://www.chevrolet.com.co/bypass/gmccontenthub/chevrolet/gm-co/colorizer_tracker/images/colorizer/2022-colorchip-tracker-turbo-plata-1.png",
+                "thumbnail": "https://www.chevrolet.com.co/bypass/gmccontenthub/chevrolet/gm-co/colorizer_tracker/images/colorizer/2022-colorchip-tracker-turbo-plata-1.png"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-2.jpg"
+                "original": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/2021-new-tracker-turbo/drp-refresh/galeria/exterior/reemplazo/2022-galeria-tracker-turbo-ext-01.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/2021-new-tracker-turbo/drp-refresh/galeria/exterior/reemplazo/2022-galeria-tracker-turbo-ext-01.jpg?imwidth=1200"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-tracker-3.jpg"
+                "original": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/2021-new-tracker-turbo/drp-refresh/galeria/exterior/reemplazo/2022-galeria-tracker-turbo-ext-09.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/2021-new-tracker-turbo/drp-refresh/galeria/exterior/reemplazo/2022-galeria-tracker-turbo-ext-09.jpg?imwidth=1200"
+            },
+            {
+                "original": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/2021-new-tracker-turbo/drp-refresh/galeria/interior/reemplazo/2022-galeria-tracker-turbo-int-6.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/2021-new-tracker-turbo/drp-refresh/galeria/interior/reemplazo/2022-galeria-tracker-turbo-int-6.jpg?imwidth=1200"
+            },
+            {
+                "original": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/2021-new-tracker-turbo/drp-refresh/galeria/interior/reemplazo/2022-galeria-tracker-turbo-int-7.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.co/content/dam/chevrolet/south-america/colombia/espanol/index/crossovers-and-suvs/2021-new-tracker-turbo/drp-refresh/galeria/interior/reemplazo/2022-galeria-tracker-turbo-int-7.jpg?imwidth=1200"
             }
         ]
     },
@@ -149,16 +205,24 @@
         "id": "009",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-1.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-1.jpg"
+                "original": "https://imgd.aeplcdn.com/1056x594/cw/ec/40369/Ford-EcoSport-Right-Front-Three-Quarter-159249.jpg?wm=1&q=75",
+                "thumbnail": "https://imgd.aeplcdn.com/1056x594/cw/ec/40369/Ford-EcoSport-Right-Front-Three-Quarter-159249.jpg?wm=1&q=75"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-2.jpg"
+                "original": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/dm/22_FRD_ECO_000008_TNM_4WD_badge.tif?croppathe=1_3x2&wid=720&fit=crop&hei=480",
+                "thumbnail": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/dm/22_FRD_ECO_000008_TNM_4WD_badge.tif?croppathe=1_3x2&wid=720&fit=crop&hei=480"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/suv-eco-3.jpg"
+                "original": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/dm/20_FRD_C8810318_ECOS_Titan_IntFullIPAmbientLight_mj.tif?croppathe=1_3x2&wid=720&fit=crop&hei=480",
+                "thumbnail": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/dm/20_FRD_C8810318_ECOS_Titan_IntFullIPAmbientLight_mj.tif?croppathe=1_3x2&wid=720&fit=crop&hei=480"
+            },
+            {
+                "original": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/dm/22_FRD_C9654719_ECOS_Titan_PassengerSideViewLeatherInterior_mj.tif?croppathe=1_3x2&wid=720&fit=crop&hei=480",
+                "thumbnail": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/dm/22_FRD_C9654719_ECOS_Titan_PassengerSideViewLeatherInterior_mj.tif?croppathe=1_3x2&wid=720&fit=crop&hei=480"
+            },
+            {
+                "original": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/dm/22_FRD_ECO_000041_SES_V6.tif?croppathe=1_3x2&wid=720&fit=crop&hei=480",
+                "thumbnail": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/ecosport/2022/collections/dm/22_FRD_ECO_000041_SES_V6.tif?croppathe=1_3x2&wid=720&fit=crop&hei=480"
             }
         ]
     },
@@ -166,16 +230,24 @@
         "id": "010",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-1.jpg.webp",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-1.jpg.webp"
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/m/RT_V_7813d5c0b0c346b998280771f4ca2411.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/m/RT_V_7813d5c0b0c346b998280771f4ca2411.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-2.jgp.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-2.jgp.jpg"
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_e389d0cabcca4ea1b768d58b05a8ce24.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_e389d0cabcca4ea1b768d58b05a8ce24.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-amarok-3.jpg"
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_7d760bec832e4a3f8e6c35ee0e6450bf.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_7d760bec832e4a3f8e6c35ee0e6450bf.jpg"
+            },
+            {
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_cacb3ad81789421ab1f31db9f13c4c5f.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_cacb3ad81789421ab1f31db9f13c4c5f.jpg"
+            },
+            {
+                "original": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_8592fe2fea6344b3a5c3e8d797565b9d.jpg",
+                "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_8592fe2fea6344b3a5c3e8d797565b9d.jpg"
             }
         ]
     },
@@ -183,16 +255,24 @@
         "id": "011",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-1.jpg.webp",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-1.jpg.webp"
+                "original": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/colorizer/01-images/blanco.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/colorizer/01-images/blanco.jpg?imwidth=1200"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-2.jpg"
+                "original": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/gallery/01-images/2023-s10-max-gal-ext-03.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/gallery/01-images/2023-s10-max-gal-ext-03.jpg?imwidth=1200"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-s10-3.jpg"
+                "original": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/gallery/01-images/2023-s10-max-gal-ext-05.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/gallery/01-images/2023-s10-max-gal-ext-05.jpg?imwidth=1200"
+            },
+            {
+                "original": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/gallery/01-images/2023-s10-max-gal-int-03.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/gallery/01-images/2023-s10-max-gal-int-03.jpg?imwidth=1200"
+            },
+            {
+                "original": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/mov/01-images/2023-s10-max-tecnologia.jpg?imwidth=1200",
+                "thumbnail": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/pickups-and-trucks/2023-s10-max/mov/01-images/2023-s10-max-tecnologia.jpg?imwidth=1200"
             }
         ]
     },
@@ -200,16 +280,24 @@
         "id": "012",
         "urls": [
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-1.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-1.jpg"
+                "original": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/colorizer/v3/colorizer/Blanco%20%C3%81rtico/fco-ranger-colorizer-blanco.jpg.dam.full.high.jpg/1678470382133.jpg",
+                "thumbnail": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/colorizer/v3/colorizer/Blanco%20%C3%81rtico/fco-ranger-colorizer-blanco.jpg.dam.full.high.jpg/1678470382133.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-2.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-2.jpg"
+                "original": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/gallery/exterior/overlay/fco-full-gallery-ext-sensor-lluvia.jpg",
+                "thumbnail": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/gallery/exterior/overlay/fco-full-gallery-ext-sensor-lluvia.jpg"
             },
             {
-                "original": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-3.jpg",
-                "thumbnail": "https://grupo06-instancia-s3-2.s3.us-east-2.amazonaws.com/galeria-rental/4x4-ranger-3.jpg"
+                "original": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/gallery/exterior/overlay/fco-full-gallery-ext-compuerta-platon.jpg",
+                "thumbnail": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/gallery/exterior/overlay/fco-full-gallery-ext-compuerta-platon.jpg"
+            },
+            {
+                "original": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/gallery/interior/overlay/fco-full-gallery-int-asientos-comodidad.jpg",
+                "thumbnail": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/gallery/interior/overlay/fco-full-gallery-int-asientos-comodidad.jpg"
+            },
+            {
+                "original": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/gallery/interior/overlay/fco-full-gallery-int-climatizador-electronico.jpg",
+                "thumbnail": "https://www.ford.com.co/content/dam/Ford/website-assets/latam/co/nameplate/ranger/2023/gallery/interior/overlay/fco-full-gallery-int-climatizador-electronico.jpg"
             }
         ]
     }
