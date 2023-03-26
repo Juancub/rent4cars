@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import DescripcionProducto from '../DescripcionProducto/DescripcionProducto'
 import FeaturesProducto from '../FeaturesProducto/FeaturesProducto'
 import HeaderProducto from '../HeaderProducto/HeaderProducto'
@@ -13,6 +13,11 @@ import "./producto.css"
 const Producto = () => {
     const { id } = useParams();
     const { title, category, location, description, features, requisites } = data[Number(id) - 1];
+
+    useEffect(() => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }, []);
+
     return (
         <div className='productoVehiculoDiv'>
             <HeaderProducto nombreProducto={title} categoria={category} />

@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import "./card.css"
 
 const Card = ({image,category,title,location,description,id}) => {
+
     return (
         <div className='cardVehicle'>
             <div className='imagenCard'><img src={image} alt={title}/></div>

@@ -1,15 +1,16 @@
-import React from 'react'
+import React  from 'react'
 import vehicles from "../../store/vehicles.json"
 import Card from './../Card/Card'
 import "./list.css"
 // import { ListWrapper } from '../../styles/ListWrapper'
 
-const List = ({values}) => {
+const List = ({values, forwardeRef}) => {
     
     return (
         <section className='templateLista'>
             {console.log("estamos en la lista de productos",values.location)}
-            <div className='textRecomienda'>Recomendaciones</div>
+            
+            <div ref={forwardeRef} className='textRecomienda'>Recomendaciones</div>
             <div className='listaVehiculos'>
             {(values.location==""||values.location=="default")&&(values.category=="")
             ?
@@ -26,4 +27,6 @@ const List = ({values}) => {
     )
 }
 
-export default List
+export default React.forwardRef((props, ref) => (
+    <List {...props} forwardeRef={ref} />
+));
