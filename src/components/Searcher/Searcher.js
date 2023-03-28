@@ -4,7 +4,7 @@ import DatePicker from 'react-datepicker';
 import "react-datepicker/dist/react-datepicker.css";
 import './searcher.css';
 
-const Searcher = ({values, setValues}) => {
+const Searcher = ({values, setValues,clickToReferencia}) => {
 
     // const [values, setValues] = useState({
     //     location: ""
@@ -20,9 +20,12 @@ const Searcher = ({values, setValues}) => {
     let valor = null;
 
     function handleSubmit(evt) {
-        console.log(values);
-        setValues({...values, location: valor});
         evt.preventDefault();
+
+        if (valor!=null) {
+            setValues({...values, location: valor})
+            clickToReferencia();
+        }
     }
 
     function handleChange(evt) {

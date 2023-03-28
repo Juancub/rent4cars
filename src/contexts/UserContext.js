@@ -16,11 +16,16 @@ const UserProvider = ({children}) => {
 
     const navigate = useNavigate();
 
+    //esto es una prueba
+    const [reservaUsuario, setReservaUsuario] = useState(false)
+    const [openMenu, setOpenMenu] = useState(false)
+    //hasta aca
+
     const [user, setUser] = useState(null);
 
     const login = (event)=>{
         event.preventDefault();
-
+        
         const email = event.target.email.value;
         const pass = event.target.pass.value;
 
@@ -41,7 +46,7 @@ const UserProvider = ({children}) => {
           }  else{
             navigate('/');
           }
-          
+          setReservaUsuario(false)
           window.localStorage.setItem("user", JSON.stringify(currentUser));
           /* console.log(JSON.parse(window.localStorage.getItem("user"))); */
         }
@@ -60,7 +65,7 @@ const UserProvider = ({children}) => {
         event.preventDefault();
         setUser(null);    
         navigate('/login');
-        console.log("Sesión cerrada"); 
+        console.log("Sesión cerrada");
         window.localStorage.clear();
     }
 
@@ -101,7 +106,8 @@ const UserProvider = ({children}) => {
         console.log("Usuario guardado."); 
     }
 
-    const data = {user, login, logout, saveUser}; 
+    //este funciona const data = {user, login, logout, saveUser};
+    const data = {user, login, logout, saveUser, reservaUsuario, setReservaUsuario, openMenu, setOpenMenu}; 
 
     return(
         <UserContext.Provider value={data}>

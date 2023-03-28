@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import { useParams } from 'react-router-dom'
 import HeaderProducto from '../HeaderProducto/HeaderProducto';
 import data from '../../store/vehiculo.json';
@@ -10,6 +10,11 @@ import CalendarioReserva from '../CalendarioReserva/CalendarioReserva';
 import HorarioReserva from '../HorarioReserva/HorarioReserva';
 
 const Reserva = () => {
+
+    useEffect(() => {
+        window.scrollTo({ top: 0, behavior: 'instant' });
+    }, []);
+
     const { id } = useParams();
     const { title, category, location, img, description, features, requisites } = data[Number(id) - 1];
     const [rangoFechas, setRangoFechas] = useState([null, null]);

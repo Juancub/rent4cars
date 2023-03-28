@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css'
 
-export function CardCategoria({nombre, foto, alteText, cant, values, setValues, scrollToRef, clickToReferencia}) {
+export function CardCategoria({nombre, foto, alteText, cant, values, setValues, clickToReferencia}) {
   const selectCategoria = () => {
     
     clickToReferencia();

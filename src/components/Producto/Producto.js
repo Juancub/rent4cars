@@ -15,7 +15,7 @@ const Producto = () => {
     const { title, category, location, description, features, requisites } = data[Number(id) - 1];
 
     useEffect(() => {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: 'instant' });
     }, []);
 
     return (

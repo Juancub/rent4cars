@@ -7,16 +7,18 @@ export const NavbarWrapper = styled.nav`
     justify-content: flex-start;
     background: white;
     position: fixed;
-    top: 10vh;
+    top: 0;
     right: ${props => (props.open ? "0" : "-100%")};
     width: 75%;
-    height: 90vh;
+    height: 100vh;
     transition: right 0.3s linear;
+    overflow: hidden;
 
     .menuNav {
         color: white;
         background: #1DBEB4;
         width: 100%;
+        margin-top: 110px;
         padding-top: 5rem;
         padding-right: 1rem;
         text-align: right;

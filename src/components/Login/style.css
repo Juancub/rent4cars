@@ -9,6 +9,13 @@
 .login h2{
     color:#1DBEB4
 }
+
+.usuarioSinReserva{
+    
+    background-color: rgb(255, 125, 125);
+    font-weight: normal;
+}
+
 .login p{
     font-size: 12px;
 }

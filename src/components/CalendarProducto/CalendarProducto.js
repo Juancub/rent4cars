@@ -7,7 +7,7 @@ import "react-datepicker/dist/react-datepicker.css";
 
 const CalendarProducto = ({id}) => {
 
-    const {user, logout} = useContext(UserContext);
+    const {user, logout, setReservaUsuario} = useContext(UserContext);
     const [items, setItems] = useState([]);
 
     function getWindowDimensions() {
@@ -70,7 +70,7 @@ const CalendarProducto = ({id}) => {
                     ?
                     <Link className='botonIniciraReserva' to={`reserva`}><button>Confirmar Alquiler</button></Link>
                     :
-                    <Link className='botonIniciraReserva' to={`../login`}><button>Confirmar Alquiler</button></Link>}
+                    <Link onClick={setReservaUsuario(true)} className='botonIniciraReserva' to={`../login`}><button>Confirmar Alquiler</button></Link>}
                     {/* <Link className='botonIniciraReserva' to={`reserva`}><button>Iniciar reserva</button></Link> */}
                 </div>
             </section>

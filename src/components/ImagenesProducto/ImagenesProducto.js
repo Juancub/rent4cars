@@ -17,6 +17,7 @@ const ImagenesProducto = ({id}) => {
   const [index, setIndex] = useState(0)
   const [index2, setIndex2] = useState(0)
 
+
   const indexActual = (i) => (
     setIndex(i)
   );

@@ -1,11 +1,20 @@
     .menuHamburguer {
         border: none;
+    }  
+
+    .closeMenuHamburguer{
+        top: 5vh;
+        right: 2em;
+        position: fixed;
+        z-index: 9999;
     }
-    
-    
 
     @media only screen and (min-width: 624px) {
         .menuHamburguer {
+            display: none;
+        }
+
+        .closeMenuHamburguer{
             display: none;
         }
     }
