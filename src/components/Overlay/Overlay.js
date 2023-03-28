@@ -8,7 +8,6 @@ const Overlay = () => {
     
   return (
     <div className={`${openMenu?"overlayShow":"overlay"}`}>
-        {console.log("Entraste al componente Overlay",openMenu)}
     </div>
   )
 }

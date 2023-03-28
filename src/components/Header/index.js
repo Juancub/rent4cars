@@ -17,7 +17,13 @@ const Header = () => {
     const handleClick = () => {
     setOpen(!open);
     setReservaUsuario(false)
-    setOpenMenu(!openMenu)
+
+      !open
+      ?
+      setOpenMenu(true)
+      :
+      setOpenMenu(false)
+
     };
 
   return (

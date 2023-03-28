@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useContext} from 'react';
 import { NavLink } from 'react-router-dom';
 import facebook from './../../assets/images/icon-fb.png';
 import linkedIn from './../../assets/images/icon-in.png';
@@ -7,13 +7,22 @@ import instagram from './../../assets/images/icon-ig.png';
 // este funcionaba import './navBar.css';
 // esto es nuevo
 import { NavbarWrapper } from '../../styles/NavbarWrapper';
+import UserContext from '../../contexts/UserContext';
 // hasta aca
 
 
 const Navbar = ({ open, handleClick}) => {
-
+  const {setOpenMenu, setReservaUsuario} = useContext(UserContext);
   // let changeNav = null;
   // open ? changeNav = "0" : changeNav = "-100";
+
+  const handleClickLogin = () => { 
+    if (open) {
+      handleClick()
+      setReservaUsuario(false)
+    } else setReservaUsuario(false)
+    
+  }
 
   return (
     //<nav style={{right:changeNav, transition: "right 0.3s linear"}} className="navega">
@@ -29,8 +38,8 @@ const Navbar = ({ open, handleClick}) => {
       <h2 className='menuNav'>MENU</h2>
       {/* hasta aca */}
 
-      <NavLink className='LinkNav' onClick={handleClick} to="./registro">Crear cuenta</NavLink>
-      <NavLink className='LinkNav' onClick={handleClick} to="./login">Iniciar sesión</NavLink>
+      <NavLink className='LinkNav' onClick={open?handleClick:null} to="./registro">Crear cuenta</NavLink>
+      <NavLink className='LinkNav' onClick={handleClickLogin} to="./login">Iniciar sesión</NavLink>
 
       <div className='redesNav'>
           <img className='iconNav' src={facebook} alt='Facebook'/>

@@ -85,8 +85,11 @@ const UserProvider = ({children}) => {
                 Swal.fire(
                     'Creación exitosa',
                     'Su cuenta ha sido creada con éxito. Ya puede iniciar sesión.',
-                    'success'
-                  );
+                    'success').then(function () {
+                      navigate('/login');
+                    });
+                    
+                
                   const usuario = {
                     email: email,
                     password: pass1,
