@@ -12,7 +12,7 @@ const ReservaExitosa = () => {
         <FontAwesomeIcon className='iconoCalendar' icon={faCalendarCheck} />
         <h3>¡Muchas gracias!</h3>
         <h4>Su reserva se ha realizado con éxito</h4>
-        <div><Link className='botonHome' to={"../../../"}>OK</Link></div>
+        <Link className='botonHome' to={"../../../"}>OK</Link>
         </div>
     </section>
     </main>

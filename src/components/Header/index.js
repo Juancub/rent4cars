@@ -46,8 +46,8 @@ const Header = () => {
         <div>
         <p>Hola {user.nombre}!</p>
         <div className='cerrar-sesion'>
-          <p>Cerrar Sesión</p>
-          <form onSubmit={logout}><input type="submit" value="X" /></form>
+          <p onClick={logout}>Cerrar Sesión</p>
+          {/* <form onSubmit={logout}><input type="submit" value="X" /></form> */}
         </div>
         </div>
       </div>:
