@@ -8,13 +8,13 @@ import './style.css';
 const Footer = () => {
   return (
     <footer>
-        <p className='dh'>©2022 Digital Booking</p>
-        <div className='redes'>
-            <img className='icon' src={facebook} alt='Facebook'/>
-            <img className='icon' src={linkedIn} alt='LinkedIn'/>
-            <img className='icon' src={tweeter} alt='Tweeter'/>
-            <img className='icon' src={instagram} alt='Instagram'/>
-        </div>
+      <p className='dh'>©2023 Rent 4 Cars</p>
+      <div className='redes'>
+        <img className='icon' src={facebook} alt='Facebook' />
+        <img className='icon' src={linkedIn} alt='LinkedIn' />
+        <img className='icon' src={tweeter} alt='Tweeter' />
+        <img className='icon' src={instagram} alt='Instagram' />
+      </div>
     </footer>
   )
 }

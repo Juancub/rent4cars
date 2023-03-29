@@ -1,30 +1,28 @@
 [
     {
         "id": "001",
-        "urls":
-            [
-                {
-                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-comfortline-mt-798x466.jpg.webp",
-                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-comfortline-mt-798x466.jpg.webp"
-                },
-                {
-                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-2020-modelos-lateral-gris-colombia-798x466.png.webp",
-                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-2020-modelos-lateral-gris-colombia-798x466.png.webp"
-                },
-                {
-                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-asientos-volkswagen-colombia-798x466.jpg",
-                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-asientos-volkswagen-colombia-798x466.jpg"
-                },
-                {
-                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-highline-baul-798x466.jpg",
-                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-highline-baul-798x466.jpg"
-                },
-                {
-                    "original": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-interior-panel-frontal-volkswagen-colombia-asientos-798x466.jpg",
-                    "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-interior-panel-frontal-volkswagen-colombia-asientos-798x466.jpg"
-                }
-
-            ]
+        "urls": [
+            {
+                "original": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-comfortline-mt-798x466.jpg.webp",
+                "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-comfortline-mt-798x466.jpg.webp"
+            },
+            {
+                "original": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-2020-modelos-lateral-gris-colombia-798x466.png.webp",
+                "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/volkswagen-gol-2020-modelos-lateral-gris-colombia-798x466.png.webp"
+            },
+            {
+                "original": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-asientos-volkswagen-colombia-798x466.jpg",
+                "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-asientos-volkswagen-colombia-798x466.jpg"
+            },
+            {
+                "original": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-highline-baul-798x466.jpg",
+                "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-highline-baul-798x466.jpg"
+            },
+            {
+                "original": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-interior-panel-frontal-volkswagen-colombia-asientos-798x466.jpg",
+                "thumbnail": "https://autoland.com.co/wp-content/uploads/2020/05/Autoland-gol-interior-panel-frontal-volkswagen-colombia-asientos-798x466.jpg"
+            }
+        ]
     },
     {
         "id": "002",

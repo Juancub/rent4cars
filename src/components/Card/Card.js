@@ -1,5 +1,4 @@
 import React from 'react'
-//import { CardWrapper } from '../../styles/CardWrapper'
 import { Link } from "react-router-dom";
 import "./card.css"
 

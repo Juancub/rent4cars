@@ -7,16 +7,14 @@ import { Link } from "react-router-dom";
 
 const AdminProducto = () => {
     const [addImage, setAddImage] = useState(false)
-    const cambioDeEstado = () => {
-        setAddImage(false)
-    }
 
     const agregarImagen = (e) => {
         e.preventDefault();
         setAddImage(true)
     }
-  return (
-    <div>
+
+    return (
+    <div className='adminCrear'>
         <HeaderProducto nombreProducto={"Administración"}/>
         <h3 className='tituloCrear'>Crear vehiculo</h3>
         <form className='formCrearVehiculo'>
@@ -151,7 +149,6 @@ const AdminProducto = () => {
                 </label>
             </div>
             <Link className='botonCrearVehiculo' to={"/"}><button>Crear</button></Link>
-            {/* <button className='botonCrearVehiculo'>crear</button> */}
         </form>
     </div>
   )

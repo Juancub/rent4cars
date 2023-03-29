@@ -58,12 +58,6 @@
 .botonIniciraReserva>button {
     all: unset;
     
-    /* background-color: #1DBEB4; */
-    /* color: white; */
-    /* padding: 0.5em;
-    margin: 1em;
-    text-align: center;
-    font-weight: bold; */
 }
 
 @media only screen and (min-device-width: 624px) and (max-device-width: 1024px) {

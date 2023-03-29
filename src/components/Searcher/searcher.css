@@ -45,10 +45,6 @@
         display:none !important;
     }
 
-    /* .react-datepicker-wrapper input{
-        
-    } */
-
     .react-datepicker__day--keyboard-selected { 
         background-color: #1DBEB4;
     }

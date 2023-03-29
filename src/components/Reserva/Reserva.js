@@ -16,7 +16,7 @@ const Reserva = () => {
     }, []);
 
     const { id } = useParams();
-    const { title, category, location, img, description, features, requisites } = data[Number(id) - 1];
+    const { title, category, location, img, requisites } = data[Number(id) - 1];
     const [rangoFechas, setRangoFechas] = useState([null, null]);
     const [horarios, setHorarios] = useState({
         horaRecogida: "",
@@ -26,7 +26,6 @@ const Reserva = () => {
     return (
         <div className='templateReservaDiv'>
             <HeaderProducto nombreProducto={title} categoria={category}/>
-            {console.log(useParams())}
             <section className='templateReserva'>
                 <ConfirmarReserva/>
                 <CalendarioReserva dateRange = {rangoFechas} setDateRange = {setRangoFechas}/>
@@ -34,7 +33,6 @@ const Reserva = () => {
                 <DetallesReserva imagen = {img} categoria={category} nombreProducto={title} ciudad={location[0].city} pais={location[0].country} direccion={location[0].adress} dateRange={rangoFechas} horarios={horarios}/>
             </section>
             <RequisitosProducto edad={requisites[0].edad} licencia={requisites[0].licencia} ident={requisites[0].identificacion} voucher={requisites[0].voucher} info={requisites[0].info} />
-            {/* <p>Reserva del vehiculo número: {id}</p> */}
         </div>
     )
 }

@@ -12,8 +12,6 @@ import Reserva from './components/Reserva/Reserva';
 import ReservaExitosa from './components/ReservaExitosa/ReservaExitosa';
 import AdminProducto from './components/AdminProducto/AdminProducto';
 
-
-
 const App = () => {
 
   return (
@@ -33,7 +31,6 @@ const App = () => {
         <Footer></Footer>
       </UserProvider>
     </BrowserRouter>
-
   )
 }
 

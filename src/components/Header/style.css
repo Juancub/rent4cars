@@ -18,6 +18,10 @@
         text-decoration: none;
     }
 
+    .logoDH>img {
+        width: 150px;
+    }
+
     .eslogan {
         color: #545776;
         font-style: italic;

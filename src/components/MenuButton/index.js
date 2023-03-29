@@ -1,22 +1,7 @@
-import React, {useContext} from 'react'
+import React from 'react'
 import './menuButton.css';
-import UserContext from '../../contexts/UserContext';
 
 const MenuButton = ({open,handleClick}) => {
-
-  const {setOpenMenu, openMenu} = useContext(UserContext);
-
-  const handleClickMenuOpen = () => {
-      // setOpenMenu(true)
-      
-
-      handleClick()
-  }
-
-  const handleClickMenuClose = () => {
-    handleClick()
-    // setOpenMenu(false)
-}
   
     return !open ? (
         <nav className="menuHamburguer" onClick={handleClick}>

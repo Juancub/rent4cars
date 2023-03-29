@@ -1,19 +1,20 @@
-.categorias{
+.categorias {
     background-color: #fff;
 }
-.banner-cat-autos{
+
+.banner-cat-autos {
     display: flex;
     justify-content: space-between;
 }
-/* TABLET */
+
 @media (max-width: 768px) {
-    .banner-cat-autos{
+    .banner-cat-autos {
         flex-wrap: wrap;
     }
 }
-/* CELULAR */
+
 @media (max-width: 420px) {
-    .banner-cat-autos{
+    .banner-cat-autos {
         flex-direction: column;
     }
 }

@@ -7,8 +7,7 @@ import "react-datepicker/dist/react-datepicker.css";
 
 const CalendarProducto = ({id}) => {
 
-    const {user, logout, setReservaUsuario} = useContext(UserContext);
-    const [items, setItems] = useState([]);
+    const {user, setReservaUsuario} = useContext(UserContext);
 
     function getWindowDimensions() {
         const {innerWidth: width} = window;
@@ -64,14 +63,11 @@ const CalendarProducto = ({id}) => {
             }
                 <div className='reservar'>
                     <p>Agrega tus fechas de alquiler para obtener precios exactos</p>
-                    {/* <button>Iniciar reserva</button> */}
-                    {/* {(fechaInicio.getFullYear()>2000 && fechaFin.getFullYear()>2000)&&(horarios.horaEntrega != "" && horarios.horaRecogida != "") */}
                     {user != null
                     ?
                     <Link className='botonIniciraReserva' to={`reserva`}><button>Confirmar Alquiler</button></Link>
                     :
                     <Link onClick={setReservaUsuario(true)} className='botonIniciraReserva' to={`../login`}><button>Confirmar Alquiler</button></Link>}
-                    {/* <Link className='botonIniciraReserva' to={`reserva`}><button>Iniciar reserva</button></Link> */}
                 </div>
             </section>
             

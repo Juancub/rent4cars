@@ -13,7 +13,6 @@ const CalendarioReserva = ({dateRange, setDateRange}) => {
     }
 
     const [windowDimensions, setWindowDimensions] = useState(getWindowDimensions());
-    // const [dateRange, setDateRange] = useState([null, null]);
     const [startDate, endDate] = dateRange;
 
     useEffect(() => {
@@ -25,14 +24,8 @@ const CalendarioReserva = ({dateRange, setDateRange}) => {
         return () => window.removeEventListener('resize', handleResize);
     }, []);
 
-    //Grabar en local Storage las fechas de reserva
-    // useEffect(() => {
-    //     localStorage.setItem('fechasReserva', JSON.stringify(dateRange));
-    // }, [dateRange]);
-
   return (
     <div className='calendarioReserva'>
-        {/* {console.log(localStorage)} */}
         <h3>Selecciona tu fecha de reserva</h3>
         {(windowDimensions.width>624)?
         <DatePicker

@@ -28,13 +28,13 @@
 .card-categoria p{
     padding-left: 5%;
 }
-/* TABLET */
+
 @media (max-width: 768px) {
     .card-categoria{
         width: 48%;
     }
 }
-/* CELULAR */
+
 @media (max-width: 420px) {
     .card-categoria{
         width: 100%;

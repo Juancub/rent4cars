@@ -6,16 +6,7 @@ import './searcher.css';
 
 const Searcher = ({values, setValues,clickToReferencia}) => {
 
-    // const [values, setValues] = useState({
-    //     location: ""
-    //     // dateRange: [null,null],
-    //     // startDate: new Date(),
-    //     // endDate: new Date(),
-    // });
-
     const [dateRange, setDateRange] = useState([null, null]);
-
-    // const [dateRange, setDateRange] = React.useState([null, null]);
     const [startDate, endDate] = dateRange;
     let valor = null;
 
@@ -29,20 +20,7 @@ const Searcher = ({values, setValues,clickToReferencia}) => {
     }
 
     function handleChange(evt) {
-        console.log(evt.target.value);
         valor = evt.target.value;
-
-        // setValues({...values, location: evt.target.value});
-
-        // const { target } = evt;
-        // const { name, value } = target;
-
-        // const newValues = {
-        //     ...values,
-        //     [name]: value,
-        // };
-
-        // setValues(newValues);
     }
 
 
@@ -53,7 +31,6 @@ const Searcher = ({values, setValues,clickToReferencia}) => {
             <form className='formulario' onSubmit={handleSubmit}>
 
                 <select className='selectCity' name="ciudades" onClick={handleChange} defaultValue="default">
-                    {/* <option value={-1}>¿A dónde vamos?</option> */}
                     <option value="default" disabled>Donde quieres tu vehículo</option>
                     {
                         cities.map((city) => (
@@ -78,9 +55,7 @@ const Searcher = ({values, setValues,clickToReferencia}) => {
                     isClearable={true}
                     monthsShown={2}
                 />
-                {console.log(dateRange,values)}
                 <button className='botonForm' type="submit">Buscar</button>
-                {console.log(values)}
             </form>
 
         </section>

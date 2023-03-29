@@ -10,13 +10,12 @@ const ConfirmarReserva = () => {
     useEffect(() => {
       const items = JSON.parse(localStorage.getItem('items'));
       if (items) {
-       setItems(items);
+        setItems(items);
       }
     }, []);
 
   return (
     <div className='checkDatos'>
-        {console.log(user.nombre)}
         <h3 className='titulo'>Verifica tus datos</h3>
         <form className='verificaDatos'>
             <label >

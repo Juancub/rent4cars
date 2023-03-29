@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react'
 import "./detallesReserva.css"
 import { Link } from "react-router-dom"
 
-const DetallesReserva = ({imagen, id, categoria, nombreProducto, ciudad, pais, direccion,dateRange,horarios}) => {
+const DetallesReserva = ({imagen, categoria, nombreProducto, ciudad, pais, direccion,dateRange,horarios}) => {
   let fechaInicio = new Date(dateRange[0])
   let fechaFin = new Date(dateRange[1])
   const [fechasReserva, setfechasReserva] = useState([]);
@@ -16,10 +16,6 @@ const DetallesReserva = ({imagen, id, categoria, nombreProducto, ciudad, pais, d
 
   return (
     <section className='cardDetalles'>
-      {/* {console.log("esta es la fecha de local storage",fechasReserva)} */}
-      {/* {console.log(dateRange[0].toLocaleDateString())} */}
-      {/* {console.log(dateRange[0])} */}
-      {console.log("fecha de fin",fechaFin.toDateString())}
       <h3>Detalles del alquiler</h3>
       <div className='infoDetalles'>
         <div className='imagenDetalles'><img src={imagen} alt=""/></div>
@@ -35,8 +31,6 @@ const DetallesReserva = ({imagen, id, categoria, nombreProducto, ciudad, pais, d
             :
             <span>--/--/--<span className='spanCheck'>|</span><span>--/--/--</span></span>
             }
-
-            {/* {fechaInicio.getDate()}/{fechaInicio.getMonth()+1}/{fechaInicio.getFullYear()} */}
             
           </p>
           <hr className ="lineaReserva"></hr>
@@ -57,7 +51,6 @@ const DetallesReserva = ({imagen, id, categoria, nombreProducto, ciudad, pais, d
             <p className='faltanDatos'>Por favor ingresar las fechas y las horas de alquiler para confirmar la reserva</p>
           </div>
           }
-          {/* <button onClick={handleReservar} className='botonReservar'>Confirmar Alquiler</button> */}
         </div>
       </div>
     </section>

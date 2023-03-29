@@ -15,10 +15,12 @@
 
 .cardReserva>div>h3{
     color: #1DBEB4;
+    text-align: center;
 }
 
 .cardReserva>div>h4{
     color: #383B58;
+    text-align: center;
 }
 
 .cardReserva>div>div{
