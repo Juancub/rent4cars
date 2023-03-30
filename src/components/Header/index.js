@@ -28,7 +28,7 @@ const Header = () => {
 
   return (
     <header>
-      <Link className='logoDH' to='./'>
+      <Link className='logoDH' to='/rent4cars'>
         <img src={logo} alt='logo Digital Booking'/>
         <p className='eslogan'>Movilizate a tu gusto</p>
       </Link>

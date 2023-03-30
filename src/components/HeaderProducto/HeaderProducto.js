@@ -11,7 +11,7 @@ const HeaderProducto = ({nombreProducto,categoria}) => {
         <h3>{categoria}</h3>
         <h2>{nombreProducto}</h2>
       </div>
-      <Link className='linkBack' to={"/"}>
+      <Link className='linkBack' to={"/rent4cars"}>
         <FontAwesomeIcon className='iconBack' icon={faAngleLeft} />
       </Link>
     </div>

@@ -19,7 +19,7 @@ const App = () => {
       <UserProvider>
         <Header></Header>
         <Routes>
-          <Route path="/" element={<Home />} ></Route>
+          <Route path="/rent4cars" element={<Home />} ></Route>
           <Route path="/login" element={<Login />} ></Route>
           <Route path="/registro" element={<Registro />} ></Route>
           <Route path="vehiculo/:id" element={<Producto />} />

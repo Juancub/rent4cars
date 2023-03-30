@@ -1,5 +1,6 @@
 {
   "name": "digital-booking",
+  "homepage":"https://Juancub.github.io/rent4cars",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,8 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "aws s3 sync build/ s3://0521ptc2n2-grupo06-instancia-s3-1",
-    "prod": "npm run build && npm run deploy"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -35,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }

@@ -24,7 +24,7 @@ const [user, setUser] = useState(null);
       if (email === "admin@admin.com") {
         navigate('/admin');
       } else {
-        navigate('/');
+        navigate('/rent4cars');
       }
       setReservaUsuario(false)
       window.localStorage.setItem("user", JSON.stringify(currentUser));
