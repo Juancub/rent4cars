@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState,useEffect } from 'react'
 import cities from '../../store/cities.json';
 import DatePicker from 'react-datepicker';
 import "react-datepicker/dist/react-datepicker.css";
@@ -9,6 +9,14 @@ const Searcher = ({values, setValues,clickToReferencia}) => {
     const [dateRange, setDateRange] = useState([null, null]);
     const [startDate, endDate] = dateRange;
     let valor = null;
+    const [windowDimensions, setWindowDimensions] = useState(getWindowDimensions());
+
+    function getWindowDimensions() {
+        const {innerWidth: width} = window;
+        return {
+            width
+        };
+    }
 
     function handleSubmit(evt) {
         evt.preventDefault();
@@ -23,6 +31,14 @@ const Searcher = ({values, setValues,clickToReferencia}) => {
         valor = evt.target.value;
     }
 
+    useEffect(() => {
+        function handleResize() {
+            setWindowDimensions(getWindowDimensions());
+        }
+    
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
 
     return (
         <section className='buscadorAutos'>
@@ -41,7 +57,10 @@ const Searcher = ({values, setValues,clickToReferencia}) => {
                     }
                 </select>
 
+                {(windowDimensions.width>624)?
                 <DatePicker
+                    minDate={new Date()}
+                    showDisabledMonthNavigation
                     modifiersClassNames={{
                         selected: 'my-selected'
                     }}
@@ -54,7 +73,26 @@ const Searcher = ({values, setValues,clickToReferencia}) => {
                     }}
                     isClearable={true}
                     monthsShown={2}
-                />
+                    />
+                :
+                <DatePicker
+                    minDate={new Date()}
+                    showDisabledMonthNavigation
+                    modifiersClassNames={{
+                        selected: 'my-selected'
+                    }}
+                    placeholderText="Check in - Check out"
+                    selectsRange={true}
+                    startDate={startDate}
+                    endDate={endDate}
+                    onChange={(update) => {
+                        setDateRange(update);
+                    }}
+                    isClearable={true}
+                    monthsShown={1}
+                    />
+                }
+                
                 <button className='botonForm' type="submit">Buscar</button>
             </form>
 
